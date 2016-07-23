@@ -1,0 +1,15 @@
+{
+	"name": "NodejsStarterApp",
+	"name": "random_city",
+	"version": "1.0.0",
+	"main": "city.js",
+	"scripts": {
+        	"test":	"echo \"Error: no test specified\" && exit 1",
+		"start": "node app.js"	
+	},
+	"dependencies": {
+	    "chance": "^1.0.3",
+    	    "ip": "^1.1.3",
+            "moment": "^2.13.0",
+  }
+}
